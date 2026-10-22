@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pkl
+*.joblib
+*.log
+dataset_diabetes/
+diabetic_data.csv
